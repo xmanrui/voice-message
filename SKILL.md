@@ -5,11 +5,6 @@ description: Send voice messages across chat channels (Telegram, Discord, Feishu
 metadata:
   openclaw:
     emoji: "🎤"
-    requires:
-      bins:
-        - edge-tts
-        - ffmpeg
-        - ffprobe
 ---
 
 # Voice Message
