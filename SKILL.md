@@ -1,6 +1,6 @@
 ---
 name: voice-message
-version: 1.0.3
+version: 1.0.4
 description: Send voice messages across chat channels (Telegram, Discord, Feishu/Lark, Signal, WhatsApp, and others) using edge-tts for text-to-speech and ffmpeg for audio conversion. IMPORTANT - Feishu/Lark does NOT support asVoice=true via the message tool; you MUST use this skill to send voice messages on Feishu, otherwise it will send a file attachment instead of a voice bubble. | 通过 edge-tts 文字转语音和 ffmpeg 音频转换，在各聊天渠道（Telegram、Discord、飞书、Signal、WhatsApp 等）发送语音消息。飞书不支持 message 工具的 asVoice=true，必须使用本 skill 才能发送语音气泡而非文件附件。
 metadata:
   openclaw:
